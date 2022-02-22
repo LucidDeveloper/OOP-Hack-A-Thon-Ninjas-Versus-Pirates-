@@ -1,17 +1,15 @@
-# OOP Hack-a-thon
+# Hack-a-thon
 
 # Objectives:
-* More Practice with OOP.
-* Gain experience working in groups.
+* More Practice with Object Oriented Programming.
+* Apply techniques from object oriented programming, for loops, while loops and if statements to complete game.
 
 # Rules of Engagement:
-* Use OOP to create console applications.
+* Use OOP to create console application/ game.
 
-# Option 2: 
+# Ninjas vs Pirates
 
-Ninjas vs Pirates
-
-# Challenge:
+# Tasks:
 * Use the starter code to make a RPG battle game between ninjas and pirates.
 * Customize the attack methods on both the Ninja and Pirate class.
 * Have an instance of a ninja and pirate battle it out until one's health is depleted.
